@@ -1,0 +1,8 @@
+# Created by Thijs Verreck
+# (c) 2016
+# Ignore wp-config.php and .htaccess
+wp-config.php
+.htaccess
+
+# Ignore the wp-content directory
+/wp-content
